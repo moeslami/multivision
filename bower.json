@@ -1,0 +1,27 @@
+{
+  "name": "multivision",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mohammadeslami/multivision",
+  "authors": [
+    "Mohammad Eslami <m.eslami79@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.2",
+    "angular": "~1.4.8",
+    "angular-resource": "~1.4.8",
+    "angular-route": "~1.4.8"
+  }
+}

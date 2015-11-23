@@ -13,6 +13,8 @@
   "scripts": {
     "start": "node server.js"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "bower": "^1.6.5"
+  },
   "license": "MIT"
 }
