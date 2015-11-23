@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
-    <head>
+@html.extend('layout', function(model){
+    @html.block('main-content', function(){
         
-    </head>
-    <body>
-        <h1>Hello World</h1>
-    </body>
-</html>
+    });
+})
